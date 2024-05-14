@@ -1,6 +1,6 @@
 <br>
 
-## PRABATH-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
+## Kalyan Vai 😈👈 - A Javascript WhatsApp User Bot
 
 <br>
 
@@ -10,7 +10,7 @@
  
   <p align="center">  
   <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
-    <img alt="prabath-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+    <img alt="Kalyan-Vai" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
     
   
   </a>
@@ -79,7 +79,7 @@
 
 <a href="https://www.buymeacoffee.com/PrabathKumara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-# PRABATH-MD Bot Commands
+# Kalyan Vai Bot Commands
 
 This is a list of commands supported by the Prabath-Md bot. The commands are organized in a table with the following structure:
 
